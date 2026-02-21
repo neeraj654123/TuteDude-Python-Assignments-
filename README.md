@@ -1,2 +1,1 @@
-# TuteDude-Python-Assignments-
-This repository will include my Tutedude python Assignments
+This repository include my tutedude python course assignment currently their is only one assignment in it. 
