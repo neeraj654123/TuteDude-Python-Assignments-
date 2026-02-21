@@ -7,6 +7,7 @@ mul=a*b
 div=a/b
 
 print(f"Addition: {Add}")
-print(f"Subraction: {sub}")
+print(f"Subtraction: {sub}")
 print(f"Multiplication: {mul}")
+
 print(f"Division: {div}")
